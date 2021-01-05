@@ -1,4 +1,4 @@
-# Vision-Transformer-Keras-Tensorflow-Pytorch-Examples
+# Vision-Transformer Keras Tensorflow Pytorch Examples
 Tensorflow implementation of the Vision Transformer (ViT) presented in [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://openreview.net/pdf?id=YicbFdNTTy), where the authors show that Transformers applied directly to image patches and pre-trained on large datasets work really well on image classification.
 
 | Official Paper                                   | Official Code                                                | Article Step By Step                                         |
@@ -9,7 +9,12 @@ Tensorflow implementation of the Vision Transformer (ViT) presented in [An Image
 
 [![img](https://github.com/emla2805/vision-transformer/raw/master/vit.png)](https://github.com/emla2805/vision-transformer/blob/master/vit.png)
 
-<embed src="https://arxiv.org/pdf/2010.11929.pdf" type="application/pdf">
+
+<object data="https://arxiv.org/pdf/2010.11929.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://arxiv.org/pdf/2010.11929.pdf">
+        <p>Vision Transformer<a href="https://arxiv.org/pdf/2010.11929.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 ### Collection of Vision Transformer Code
 
