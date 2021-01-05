@@ -9,7 +9,7 @@ Tensorflow implementation of the Vision Transformer (ViT) presented in [An Image
 
 [![img](https://github.com/emla2805/vision-transformer/raw/master/vit.png)](https://github.com/emla2805/vision-transformer/blob/master/vit.png)
 
-![Model View Controller](https://arxiv.org/pdf/2010.11929.pdf)
+<embed src="https://arxiv.org/pdf/2010.11929.pdf" type="application/pdf">
 
 ### Collection of Vision Transformer Code
 
@@ -34,6 +34,23 @@ Tensorflow implementation of the Vision Transformer (ViT) presented in [An Image
 
 ---
 
+## Citation
+
+```latex
+@inproceedings{
+    anonymous2021an,
+    title={An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale},
+    author={Anonymous},
+    booktitle={Submitted to International Conference on Learning Representations},
+    year={2021},
+    url={https://openreview.net/forum?id=YicbFdNTTy},
+    note={under review}
+}
+```
+
+---
+
 **Thanks for Reading**
 
 ---
+
