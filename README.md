@@ -9,8 +9,7 @@ Tensorflow implementation of the Vision Transformer (ViT) presented in [An Image
 
 [![img](https://github.com/emla2805/vision-transformer/raw/master/vit.png)](https://github.com/emla2805/vision-transformer/blob/master/vit.png)
 
-<object data="https://arxiv.org/pdf/2010.11929.pdf" type="application/pdf" width="100%"> 
-</object>
+![Model View Controller](https://arxiv.org/pdf/2010.11929.pdf)
 
 ### Collection of Vision Transformer Code
 
@@ -33,3 +32,8 @@ Tensorflow implementation of the Vision Transformer (ViT) presented in [An Image
 | 13.   | VIT Pytorch(9) ⭐                                     | https://github.com/tczhangzhi/VisionTransformer-Pytorch      |
 | 14.   | ViT Tensorflow 2 (6)⭐                                | https://github.com/soumik12345/Vision-Transformer            |
 
+---
+
+**Thanks for Reading**
+
+---
